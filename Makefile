@@ -13,10 +13,13 @@ BUILD_LDFLAGS = -X $(PKG).commit=$(COMMIT) -X $(PKG).date=$(DATE)
 
 default: test
 
-ci: depsdev test
+ci: depsdev test test-integration
 
 test:
 	go test ./... -coverprofile=coverage.out -covermode=count
+
+test-integration:
+	cat testdata/runn-coverage.json | go run cmd/octocov-runn-coverage/main.go > custom_metrics_runn.json
 
 lint:
 	golangci-lint run ./...
