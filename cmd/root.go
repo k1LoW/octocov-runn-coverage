@@ -72,7 +72,7 @@ var rootCmd = &cobra.Command{
 			return err
 		}
 		var cov *runn.Coverage
-		if err := json.Unmarshal(b, cov); err != nil {
+		if err := json.Unmarshal(b, &cov); err != nil {
 			return err
 		}
 		cset, err := runncoverage.Convert(cov)
