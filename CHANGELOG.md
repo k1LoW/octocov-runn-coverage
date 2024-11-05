@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.0.3](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.0.2...v0.0.3) - 2024-11-05
+### Other Changes
+- Bump google.golang.org/protobuf from 1.31.0 to 1.33.0 by @dependabot in https://github.com/k1LoW/octocov-runn-coverage/pull/8
+- Bump golang.org/x/net from 0.19.0 to 0.23.0 by @dependabot in https://github.com/k1LoW/octocov-runn-coverage/pull/10
+- Bump github.com/golang-jwt/jwt/v4 from 4.5.0 to 4.5.1 by @dependabot in https://github.com/k1LoW/octocov-runn-coverage/pull/11
+
 ## [v0.0.2](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.0.1...v0.0.2) - 2024-01-09
 ### Other Changes
 - Bump golang.org/x/crypto from 0.14.0 to 0.17.0 by @dependabot in https://github.com/k1LoW/octocov-runn-coverage/pull/3
