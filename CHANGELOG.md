@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.0.5](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.0.4...v0.0.5) - 2024-11-27
+### Other Changes
+- Bump github.com/cli/go-gh/v2 from 2.4.0 to 2.11.1 by @dependabot in https://github.com/k1LoW/octocov-runn-coverage/pull/14
+
 ## [v0.0.4](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.0.3...v0.0.4) - 2024-11-07
 ### Other Changes
 - Use goreleaser v2 by @k2tzumi in https://github.com/k1LoW/octocov-runn-coverage/pull/12
