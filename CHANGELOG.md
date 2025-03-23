@@ -1,5 +1,10 @@
 # Changelog
 
+## [v0.1.0](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.0.5...v0.1.0) - 2025-03-23
+### Other Changes
+- Bump github.com/golang-jwt/jwt/v4 from 4.5.1 to 4.5.2 by @dependabot in https://github.com/k1LoW/octocov-runn-coverage/pull/17
+- Bump github.com/go-git/go-git/v5 from 5.11.0 to 5.13.0 by @dependabot in https://github.com/k1LoW/octocov-runn-coverage/pull/19
+
 ## [v0.0.5](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.0.4...v0.0.5) - 2024-11-27
 ### Other Changes
 - Bump github.com/cli/go-gh/v2 from 2.4.0 to 2.11.1 by @dependabot in https://github.com/k1LoW/octocov-runn-coverage/pull/14
