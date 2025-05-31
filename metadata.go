@@ -8,7 +8,7 @@ import (
 	"github.com/k1LoW/octocov/report"
 )
 
-// ParseMetadata parse stdin and return metadata
+// ParseMetadata parse stdin and return metadata.
 func ParseMetadata(in io.Reader) []*report.MetadataKV {
 	mset := []*report.MetadataKV{}
 	scanner := bufio.NewScanner(in)
