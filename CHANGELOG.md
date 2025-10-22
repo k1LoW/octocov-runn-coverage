@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.1.2](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.1...v0.1.2) - 2025-10-22
+### Other Changes
+- chore: setup tagpr labels by @k1LoW in https://github.com/k1LoW/octocov-runn-coverage/pull/26
+
 ## [v0.1.1](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.0...v0.1.1) - 2025-06-10
 ### Other Changes
 - Bump golang.org/x/net from 0.37.0 to 0.38.0 by @dependabot in https://github.com/k1LoW/octocov-runn-coverage/pull/21
