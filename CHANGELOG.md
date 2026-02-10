@@ -1,5 +1,10 @@
 # Changelog
 
+## [v0.1.3](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.2...v0.1.3) - 2026-02-10
+### Other Changes
+- chore(deps): bump github.com/expr-lang/expr from 1.17.0 to 1.17.7 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/29
+- chore(deps): bump github.com/go-git/go-git/v5 from 5.14.0 to 5.16.5 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/31
+
 ## [v0.1.2](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.1...v0.1.2) - 2025-11-20
 ### Other Changes
 - chore: setup tagpr labels by @k1LoW in https://github.com/k1LoW/octocov-runn-coverage/pull/26
