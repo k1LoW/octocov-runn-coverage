@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.1.5](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.4...v0.1.5) - 2026-02-25
+### Other Changes
+- chore(deps): bump github.com/cloudflare/circl from 1.6.1 to 1.6.3 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/34
+
 ## [v0.1.4](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.3...v0.1.4) - 2026-02-19
 ### Other Changes
 - chore(deps): bump filippo.io/edwards25519 from 1.1.0 to 1.1.1 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/32
