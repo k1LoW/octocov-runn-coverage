@@ -51,7 +51,7 @@ require (
 	github.com/chromedp/sysutil v1.1.0 // indirect
 	github.com/cli/go-gh/v2 v2.12.1 // indirect
 	github.com/cli/safeexec v1.0.1 // indirect
-	github.com/cloudflare/circl v1.6.1 // indirect
+	github.com/cloudflare/circl v1.6.3 // indirect
 	github.com/cncf/xds/go v0.0.0-20250121191232-2f005788dc42 // indirect
 	github.com/cyphar/filepath-securejoin v0.4.1 // indirect
 	github.com/dchest/bcrypt_pbkdf v0.0.0-20150205184540-83f37f9c154a // indirect
