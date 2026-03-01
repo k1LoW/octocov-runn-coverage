@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.1.6](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.5...v0.1.6) - 2026-03-01
+### Other Changes
+- chore(deps): bump go.opentelemetry.io/otel/sdk from 1.34.0 to 1.40.0 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/36
+
 ## [v0.1.5](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.4...v0.1.5) - 2026-02-25
 ### Other Changes
 - chore(deps): bump github.com/cloudflare/circl from 1.6.1 to 1.6.3 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/34
