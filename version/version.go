@@ -4,4 +4,4 @@ package version
 const Name string = "octocov-runn-coverage"
 
 // Version for this.
-var Version = "0.1.6"
+var Version = "0.1.7"
