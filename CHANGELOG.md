@@ -1,5 +1,7 @@
 # Changelog
 
+## [v0.1.7](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.6...v0.1.7) - 2026-03-19
+
 ## [v0.1.6](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.5...v0.1.6) - 2026-03-01
 ### Other Changes
 - chore(deps): bump go.opentelemetry.io/otel/sdk from 1.34.0 to 1.40.0 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/36
