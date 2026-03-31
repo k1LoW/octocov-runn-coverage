@@ -1,5 +1,10 @@
 # Changelog
 
+## [v0.1.8](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.7...v0.1.8) - 2026-03-31
+### Other Changes
+- chore(deps): bump github.com/go-git/go-git/v5 from 5.16.5 to 5.17.1 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/40
+- chore(deps): bump github.com/buger/jsonparser from 1.1.1 to 1.1.2 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/41
+
 ## [v0.1.7](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.6...v0.1.7) - 2026-03-19
 
 ## [v0.1.6](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.5...v0.1.6) - 2026-03-01
