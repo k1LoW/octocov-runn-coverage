@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.1.9](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.8...v0.1.9) - 2026-04-03
+### Other Changes
+- chore(deps): bump github.com/go-jose/go-jose/v4 from 4.1.3 to 4.1.4 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/43
+
 ## [v0.1.8](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.7...v0.1.8) - 2026-03-31
 ### Other Changes
 - chore(deps): bump github.com/go-git/go-git/v5 from 5.16.5 to 5.17.1 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/40
