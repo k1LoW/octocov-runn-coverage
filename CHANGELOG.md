@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.1.12](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.11...v0.1.12) - 2026-07-04
+
+### Other Changes
+- chore(deps): bump github.com/go-git/go-git/v5 from 5.19.0 to 5.19.1 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/50
+- chore(deps): bump golang.org/x/net from 0.53.0 to 0.55.0 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/52
+
 ## [v0.1.11](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.10...v0.1.11) - 2026-05-11
 ### Other Changes
 - chore(deps): bump github.com/go-git/go-git/v5 from 5.17.1 to 5.18.0 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/47
