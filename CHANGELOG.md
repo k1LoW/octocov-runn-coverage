@@ -1,5 +1,10 @@
 # Changelog
 
+## [v0.1.13](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.12...v0.1.13) - 2026-07-11
+
+### Other Changes
+- chore(deps): bump golang.org/x/crypto from 0.51.0 to 0.52.0 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/53
+
 ## [v0.1.12](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.11...v0.1.12) - 2026-07-04
 
 ### Other Changes
