@@ -1,5 +1,14 @@
 # Changelog
 
+## [v0.1.14](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.13...v0.1.14) - 2026-09-29
+
+### Other Changes
+- chore(deps): bump google.golang.org/grpc from 1.79.3 to 1.82.1 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/55
+- chore(deps): bump go.opentelemetry.io/otel/sdk from 1.43.0 to 1.45.0 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/59
+- chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.2 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/58
+- ci: generate CREDITS with gocredits v1.0.0 from a make target by @k1LoW in https://github.com/k1LoW/octocov-runn-coverage/pull/60
+- chore(deps): bump github.com/go-git/go-git/v5 from 5.19.1 to 5.19.2 by @dependabot[bot] in https://github.com/k1LoW/octocov-runn-coverage/pull/57
+
 ## [v0.1.13](https://github.com/k1LoW/octocov-runn-coverage/compare/v0.1.12...v0.1.13) - 2026-07-11
 
 ### Other Changes
